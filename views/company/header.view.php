@@ -49,10 +49,10 @@
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav mr-auto">
       <li class="nav-item">
-        <a class="nav-link text-dark" href="?c=Landing&a=detalles_producto">Iniciar Sesión</a>
+        <a class="nav-link text-dark" href="?c=Login">Iniciar Sesión</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link text-dark" href="?c=Landing&a=pagina">Registrarme</a>
+        <a class="nav-link text-dark" href="#">Registrarme</a>
       </li>
       <li class="nav-item">
         <a class="nav-link text-dark" href="?c=Landing&a=equipos">Equipos</a>
